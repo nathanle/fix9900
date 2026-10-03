@@ -126,3 +126,4 @@ Hey 👋 welcome. Use this repo to generate your own ZMK keymap for the BB9900 B
 ![image](https://github.com/ZitaoTech/zmk-config_9900/assets/145678024/a6140108-9e27-4d51-aa42-ba12233b8738)
 5. Unzip the firmware.zip file. You should see one files: `bb9900-zmk.uf2`.  
 6. Flash the keyboard with your new firmware.[How to flash the firmware](https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard?tab=readme-ov-file#-how-to-update-the-firmware---) 
+Testing
